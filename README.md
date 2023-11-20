@@ -32,7 +32,7 @@ These instructions will guide you through getting a copy of the project up and r
 2. **Start the Application with Docker Compose**
 
    ```bash
-   docker-compose up --build
+   docker compose up --build
    ```
 
 3. **Access the Application**
