@@ -36,7 +36,7 @@ These instructions will guide you through getting a copy of the project up and r
    ```
 
 3. **Access the Application**
-   The FastAPI application will be accessible at [http://localhost:8000](http://localhost:8000).
+   The FastAPI application will be accessible at [http://localhost:8000/docs](http://localhost:8000/docs).
 
 4. **API Endpoints**
    - Calculate RPN: `POST /calculate_rpn`
